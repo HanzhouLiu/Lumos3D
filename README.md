@@ -12,4 +12,4 @@
 
 ## Overview
 Lumos3D introduces the first **single-forward 3D restoration framework** for low-light scenes.  
-Given a set of low-light input images (with or without GT normals, depth, or poses), Lumos3D jointly restores **appearance + geometry + illumination** in a unified feed-forward pipeline.
+Given a set of low-light input images (without GT normals, depth, or poses), Lumos3D jointly restores **appearance + geometry + illumination** in a unified feed-forward pipeline.
